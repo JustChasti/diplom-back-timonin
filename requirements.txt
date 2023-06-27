@@ -1,0 +1,11 @@
+fastapi
+python-dotenv
+loguru
+uvicorn
+requests
+selenium==4.9.1
+pymongo
+pika
+aiochan
+bcrypt
+PyJWT
